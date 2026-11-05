@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": 11,
+    "amount": 89.30,
+    "status": "Captured",
+    "transactionId": "TXN-D00D6AD02EB7",
+    "createdAt": "2026-11-04T16:28:25.6766179+02:00"
+  },
+  {
+    "orderId": 8,
+    "amount": 960.00,
+    "status": "Declined",
+    "transactionId": null,
+    "createdAt": "2026-11-04T16:28:25.722973+02:00"
+  },
+  {
+    "orderId": 13,
+    "amount": 309.20,
+    "status": "Refunded",
+    "transactionId": "TXN-B55DB07E38B5",
+    "createdAt": "2026-11-04T16:28:25.9115255+02:00"
+  },
+  {
+    "orderId": 19,
+    "amount": 76.90,
+    "status": "Captured",
+    "transactionId": "TXN-530B05287E62",
+    "createdAt": "2026-11-04T16:28:25.9434852+02:00"
+  },
+  {
+    "orderId": 17,
+    "amount": 687.30,
+    "status": "Captured",
+    "transactionId": "TXN-139F7DE16339",
+    "createdAt": "2026-11-04T16:28:26.4273312+02:00"
+  },
+  {
+    "orderId": 6,
+    "amount": 42.90,
+    "status": "Captured",
+    "transactionId": "TXN-640A198F8FCD",
+    "createdAt": "2026-11-04T16:28:26.459226+02:00"
+  }
+]
